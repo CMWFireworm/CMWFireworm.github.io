@@ -5,9 +5,9 @@
   <subtitle>--入我眼,即是我有--</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://CMWFireworm.github.io/"/>
+  <link href="https://CMWFireworm.gitee.io/"/>
   <updated>2022-03-21T07:00:12.065Z</updated>
-  <id>https://CMWFireworm.github.io/</id>
+  <id>https://CMWFireworm.gitee.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="https://CMWFireworm.github.io/2022/03/21/test/"/>
-    <id>https://CMWFireworm.github.io/2022/03/21/test/</id>
+    <link href="https://CMWFireworm.gitee.io/2022/03/21/test/"/>
+    <id>https://CMWFireworm.gitee.io/2022/03/21/test/</id>
     <published>2022-03-21T06:59:04.000Z</published>
     <updated>2022-03-21T07:00:12.065Z</updated>
     
@@ -42,8 +42,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://CMWFireworm.github.io/2022/03/18/hello-world/"/>
-    <id>https://CMWFireworm.github.io/2022/03/18/hello-world/</id>
+    <link href="https://CMWFireworm.gitee.io/2022/03/18/hello-world/"/>
+    <id>https://CMWFireworm.gitee.io/2022/03/18/hello-world/</id>
     <published>2022-03-18T13:16:16.138Z</published>
     <updated>2022-03-18T13:16:16.138Z</updated>
     
