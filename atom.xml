@@ -1,25 +1,191 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>THORNS</title>
   
   <subtitle>--入我眼,即是我有--</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://CMWFireworm.github.io/"/>
-  <updated>2022-03-21T07:00:12.065Z</updated>
-  <id>https://CMWFireworm.github.io/</id>
+  <link href="https://CMWFireworm.gitee.io/"/>
+  <updated>2022-06-17T06:21:39.295Z</updated>
+  <id>https://CMWFireworm.gitee.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Jon Jin</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>jl</title>
+    <link href="https://CMWFireworm.gitee.io/2022/06/17/jl/"/>
+    <id>https://CMWFireworm.gitee.io/2022/06/17/jl/</id>
+    <published>2022-06-17T06:14:01.000Z</published>
+    <updated>2022-06-17T06:21:39.295Z</updated>
+    
+    <content type="html"><![CDATA[<p>金磊你好</p><pre><code class="bash">$ angular2</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;金磊你好&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ angular2
+&lt;/code&gt;&lt;/pre&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>jj</title>
+    <link href="https://CMWFireworm.gitee.io/2022/06/17/jj/"/>
+    <id>https://CMWFireworm.gitee.io/2022/06/17/jj/</id>
+    <published>2022-06-17T05:49:40.000Z</published>
+    <updated>2022-06-17T05:53:45.136Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/sean.jpg" alt="sean"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/sean.jpg&quot; alt=&quot;sean&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>jon</title>
+    <link href="https://CMWFireworm.gitee.io/2022/06/17/jon/"/>
+    <id>https://CMWFireworm.gitee.io/2022/06/17/jon/</id>
+    <published>2022-06-17T05:36:36.000Z</published>
+    <updated>2022-06-17T05:49:57.136Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code class="bash">$ hexo server</code></pre><p>&#x2F;images&#x2F;sean<br><img src="/images/sean.jpg" alt="333"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ hexo server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&amp;#x2F;images&amp;#x2F;sean&lt;br&gt;&lt;img src=&quot;/images/sean.jpg&quot; alt=&quot;333&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>“ej”</title>
+    <link href="https://CMWFireworm.gitee.io/2022/06/17/%E2%80%9Cej%E2%80%9D/"/>
+    <id>https://CMWFireworm.gitee.io/2022/06/17/“ej”/</id>
+    <published>2022-06-17T05:29:40.000Z</published>
+    <updated>2022-06-17T05:36:19.538Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="sean.jpg"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;sean.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>“文sld”</title>
+    <link href="https://CMWFireworm.gitee.io/2022/06/17/%E2%80%9C%E6%96%87sld%E2%80%9D/"/>
+    <id>https://CMWFireworm.gitee.io/2022/06/17/“文sld”/</id>
+    <published>2022-06-17T05:28:43.000Z</published>
+    <updated>2022-06-17T05:28:43.153Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>“文章”</title>
+    <link href="https://CMWFireworm.gitee.io/2022/06/17/%E2%80%9C%E6%96%87%E7%AB%A0%E2%80%9D-1/"/>
+    <id>https://CMWFireworm.gitee.io/2022/06/17/“文章”-1/</id>
+    <published>2022-06-17T05:27:33.000Z</published>
+    <updated>2022-06-17T05:33:50.758Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="sean.jpg">ej</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;sean.jpg&quot;&gt;ej&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>“文章”</title>
+    <link href="https://CMWFireworm.gitee.io/2022/06/17/%E2%80%9C%E6%96%87%E7%AB%A0%E2%80%9D/"/>
+    <id>https://CMWFireworm.gitee.io/2022/06/17/“文章”/</id>
+    <published>2022-06-17T05:14:50.000Z</published>
+    <updated>2022-06-17T05:14:50.045Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>“文章名字”</title>
+    <link href="https://CMWFireworm.gitee.io/2022/06/17/%E2%80%9C%E6%96%87%E7%AB%A0%E5%90%8D%E5%AD%97%E2%80%9D/"/>
+    <id>https://CMWFireworm.gitee.io/2022/06/17/“文章名字”/</id>
+    <published>2022-06-17T05:11:28.000Z</published>
+    <updated>2022-06-17T05:13:00.019Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ hexo generate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
-    <link href="https://CMWFireworm.github.io/2022/03/21/test/"/>
-    <id>https://CMWFireworm.github.io/2022/03/21/test/</id>
+    <link href="https://CMWFireworm.gitee.io/2022/03/21/test/"/>
+    <id>https://CMWFireworm.gitee.io/2022/03/21/test/</id>
     <published>2022-03-21T06:59:04.000Z</published>
     <updated>2022-03-21T07:00:12.065Z</updated>
     
@@ -42,8 +208,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://CMWFireworm.github.io/2022/03/18/hello-world/"/>
-    <id>https://CMWFireworm.github.io/2022/03/18/hello-world/</id>
+    <link href="https://CMWFireworm.gitee.io/2022/03/18/hello-world/"/>
+    <id>https://CMWFireworm.gitee.io/2022/03/18/hello-world/</id>
     <published>2022-03-18T13:16:16.138Z</published>
     <updated>2022-03-18T13:16:16.138Z</updated>
     
