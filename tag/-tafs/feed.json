@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "THORNS • All posts by \"-tafs\" tag",
+    "description": "",
+    "home_page_url": "https://CMWFireworm.gitee.io",
+    "items": [
+        {
+            "id": "https://cmwfireworm.gitee.io/2022/06/17/jj/",
+            "url": "https://cmwfireworm.gitee.io/2022/06/17/jj/",
+            "title": "jj",
+            "date_published": "2022-06-17T05:49:40.000Z",
+            "content_html": "<p><img src=\"/images/sean.jpg\" alt=\"sean\"></p>\n",
+            "tags": [
+                "-tafs"
+            ]
+        }
+    ]
+}
